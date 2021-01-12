@@ -1,4 +1,4 @@
 # SystemDesign
 
 - Course in 2020
-- First semester of Sophomore
+- First semester of sophomore
